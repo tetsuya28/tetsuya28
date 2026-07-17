@@ -22,3 +22,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/tetsuya28/tetsuya28/main/profile-summary-card-output/graywhite/2-most-commit-language.svg)
+```
+
+    

@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/tetsuya28/tetsuya28/main/profile-summary-card-output/kacho_ga/2-most-commit-language.svg)
-```
-
-    

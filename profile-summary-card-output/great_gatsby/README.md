@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/tetsuya28/tetsuya28/main/profile-summary-card-output/great_gatsby/4-productive-time.svg)
-```
-
-    
